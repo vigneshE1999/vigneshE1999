@@ -9,7 +9,7 @@
 <!-- - All about me is at **[Portfolio](https://tonmoysu.netlify.app/)** -->
 - All about me is at **[Portfolio]()**
 
-- My name is `Vignesh` and I am a `Software Engineer` in Trichy, India.
+- My name is `Vignesh` and I am a `Software Engineer`.
 
 - I am proficient in various programming languages such as `HTML, CSS, JavaScript, React, Bootstrap, Java`.
 
