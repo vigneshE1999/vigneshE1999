@@ -18,7 +18,7 @@
 - My name is `Vignesh` and I am a `Software Engineer`.
 - I am proficient in various programming languages such as `HTML, CSS, JavaScript, React, Bootstrap, Java`.
 - I also have experience working with libraries like `ReactJS`.
-- 💬 Ask me about: `React`, `Tailwind`, `Java`, `AWS`.  
+- Ask me about: `React`, `Tailwind`, `Java`, `AWS`.  
 - In my free time, I enjoy learning new technologies and `building new web technologies and products`.
 - Reach me: <a href="mailto:vickeevicky199@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-vickeevicky199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 - Add me on <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
@@ -37,7 +37,7 @@
   
 
 <div align="center">
-<h3><picture> <img src = "" width = 50px></picture>Competitive Programming & Problem Solving<img src="" width="60">
+<h3>Competitive Programming & Problem Solving
 </h3>
 <p align="center">
   &emsp;
@@ -50,9 +50,17 @@
 ## 🧰 Tech Stack
 
 ### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,bootstrap,java,aws,azure,kubernetes,docker,git,github,mysql" />
-</p>
+### 🖥️ Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" /> </p>
+
+###🧠 Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,java" /> </p>
+
+###🗄️ Database
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+
+###☁️ Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" /> </p>
 
 ### 🛠️ Tools I Use
 <p align="center">
