@@ -42,6 +42,10 @@
 <p align="center">
   &emsp;
     <a href="https://leetcode.com/vigneshdevops/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="https://www.geeksforgeeks.org/user/vickeevibq1a/">
+      <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=plastic&logo=geeksforgeeks&logoColor=white" />
+    </a>
 </p></div>
 <br />
 
