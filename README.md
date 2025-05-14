@@ -20,8 +20,6 @@
 - I also have experience working with libraries like `ReactJS`.
 - Ask me about: `React`, `Tailwind`, `Java`, `AWS`.  
 - In my free time, I enjoy learning new technologies and `building new web technologies and products`.
-- Reach me: <a href="mailto:vickeevicky199@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-vickeevicky199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-- Add me on <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
 - All of my projects are available at <a href="" target="_blank"><img src="https://img.shields.io/badge/Github-008080">
 
 ---
