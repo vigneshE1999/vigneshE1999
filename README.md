@@ -41,7 +41,7 @@
 </h3>
 <p align="center">
   &emsp;
-    <a href=""><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/vigneshdevops/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p></div>
 <br />
 
