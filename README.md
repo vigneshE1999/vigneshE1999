@@ -46,7 +46,7 @@
     </a>
   &emsp;
     <a href="https://www.naukri.com/code360/profile/f2550ec8-0bc8-4bec-a7ba-a2aed1b3da9c">
-      <img alt="Naukri Code 360" src="https://img.shields.io/badge/Naukri%20Code360-2C2E83?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCA0OCA0OCI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiBmaWxsPSIjMmMyZTgzIiByeD0iNSIvPjx0ZXh0IHg9IjE0IiB5PSIzMiIgc3R5bGU9ImZpbGw6I2ZmZjtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxM3B4O2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWYiPkM2MDwvdGV4dD48L3N2Zz4=" />
+      <img alt="Naukri Code 360" src="https://img.shields.io/badge/Naukri%20Code360-2C2E83?style=plastic&logoColor=white&labelColor=2C2E83" />
     </a>
 </p></div>
 <br />
