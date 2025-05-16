@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="" height="200" alt="Profile Banner"/>
+  <img src="./images/profile-banner.png" height="200" alt="Profile Banner"/>
 </p>
 
 <h3 align="center">
