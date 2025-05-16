@@ -14,7 +14,7 @@
 
 <!-- - All about me is at **[Portfolio](https://tonmoysu.netlify.app/)** -->
 
-- My name is `Vignesh`, a dedicated `Software Engineer`.
+- My name is `Vignesh`, a dedicated `Software Engineer` with **3+ years of industry experience`.
 - Skilled in: `HTML`, `CSS`, `JavaScript`, `React`, `Bootstrap`, `Java`.
 - Experienced with frameworks and libraries like `ReactJS`, `Tailwind CSS`.
 - Ask me about: `React`, `Java`, `AWS`.
